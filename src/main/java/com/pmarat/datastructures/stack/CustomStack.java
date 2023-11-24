@@ -35,12 +35,12 @@ class Stack<T> {
         return top.data;
     }
 
-    private class Node<T> {
+    private static class Node<T> {
         public Node(T data) {
             this.data = data;
         }
 
         T data;
-        Node link;
+        Node<T> link;
     }
 }
