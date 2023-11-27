@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.pmarat</groupId>
-    <artifactId>datastructures-and-algorithms</artifactId>
+    <artifactId>datastructures-and-algorithms-java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
