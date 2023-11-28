@@ -1,4 +1,4 @@
-package com.pmarat.datastructures.stack;
+package datastructures.stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

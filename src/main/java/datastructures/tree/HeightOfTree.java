@@ -1,4 +1,4 @@
-package com.pmarat.datastructures.tree;
+package datastructures.tree;
 
 import static java.lang.System.out;
 
