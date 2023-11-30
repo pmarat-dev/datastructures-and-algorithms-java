@@ -1,4 +1,4 @@
-package datastructures.arrays;
+package arrays;
 
 import static java.lang.System.out;
 

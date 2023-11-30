@@ -1,4 +1,4 @@
-package algorithms.intervals;
+package intervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package datastructures.tree;
+package tree;
 
 import static java.lang.System.out;
 

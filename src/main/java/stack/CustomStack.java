@@ -1,4 +1,4 @@
-package datastructures.stack;
+package stack;
 
 import static java.lang.System.out;
 

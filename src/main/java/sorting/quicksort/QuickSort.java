@@ -1,4 +1,4 @@
-package algorithms.sorting.quicksort;
+package sorting.quicksort;
 
 import static java.lang.System.out;
 
