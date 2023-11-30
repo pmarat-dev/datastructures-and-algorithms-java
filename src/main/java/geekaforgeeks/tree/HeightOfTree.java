@@ -1,4 +1,4 @@
-package tree;
+package geekaforgeeks.tree;
 
 import static java.lang.System.out;
 

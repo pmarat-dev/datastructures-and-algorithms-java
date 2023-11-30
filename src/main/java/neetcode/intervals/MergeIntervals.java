@@ -1,4 +1,4 @@
-package intervals;
+package neetcode.intervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;

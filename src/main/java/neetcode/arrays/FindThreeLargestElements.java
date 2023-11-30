@@ -1,4 +1,4 @@
-package arrays;
+package neetcode.arrays;
 
 import static java.lang.System.out;
 

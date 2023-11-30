@@ -1,4 +1,4 @@
-package stack;
+package geekaforgeeks.stack;
 
 import static java.lang.System.out;
 

@@ -1,4 +1,4 @@
-package stack;
+package geekaforgeeks.stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

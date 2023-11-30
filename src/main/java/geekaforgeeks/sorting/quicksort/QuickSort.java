@@ -1,4 +1,4 @@
-package sorting.quicksort;
+package geekaforgeeks.sorting.quicksort;
 
 import static java.lang.System.out;
 

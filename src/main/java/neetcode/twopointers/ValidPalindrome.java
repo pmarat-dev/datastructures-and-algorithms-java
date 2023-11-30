@@ -1,4 +1,4 @@
-package twopointers;
+package neetcode.twopointers;
 
 import static java.lang.Character.isLetterOrDigit;
 import static java.lang.Character.toLowerCase;
