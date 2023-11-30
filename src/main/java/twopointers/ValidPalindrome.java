@@ -35,6 +35,7 @@ public class ValidPalindrome {
     }
 
     public static void main(String[] args) {
-        out.format("Is palindrome: %b", isPalindrome("A man, a plan, a canal: Panama"));
+        out.format("Is palindrome: %b",
+                isPalindrome("A man, a plan, a canal: Panama"));
     }
 }
