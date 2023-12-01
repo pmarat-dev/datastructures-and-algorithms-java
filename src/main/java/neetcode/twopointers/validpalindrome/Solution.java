@@ -1,10 +1,10 @@
-package neetcode.twopointers;
+package neetcode.twopointers.validpalindrome;
 
 import static java.lang.Character.isLetterOrDigit;
 import static java.lang.Character.toLowerCase;
 import static java.lang.System.out;
 
-public class ValidPalindrome {
+public class Solution {
     public static boolean isPalindrome(String s) {
         int i = 0;
         int j = s.length() - 1;

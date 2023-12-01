@@ -1,4 +1,4 @@
-package neetcode.arrayshashing;
+package neetcode.arrayshashing.isanagram;
 
 import java.util.Arrays;
 

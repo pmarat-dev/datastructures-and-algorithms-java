@@ -1,4 +1,4 @@
-package neetcode.arrayshashing;
+package neetcode.arrayshashing.containsduplicates;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -6,7 +6,7 @@ import java.util.Set;
 
 import static java.lang.System.out;
 
-public class ContainsDuplicates {
+public class Solution {
     public static boolean containsDuplicate(int[] nums) {
         Set<Integer> uniques = new HashSet<>();
         for (int num : nums) {

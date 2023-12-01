@@ -1,4 +1,4 @@
-package neetcode.arrayshashing;
+package neetcode.arrayshashing.twosum;
 
 import java.util.Arrays;
 import java.util.HashMap;

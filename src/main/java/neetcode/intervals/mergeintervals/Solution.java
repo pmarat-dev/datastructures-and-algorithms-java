@@ -1,7 +1,6 @@
-package neetcode.intervals;
+package neetcode.intervals.mergeintervals;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import static java.lang.Math.max;
@@ -9,7 +8,7 @@ import static java.lang.System.out;
 import static java.util.Arrays.sort;
 import static java.util.Comparator.comparingInt;
 
-public class MergeIntervals {
+public class Solution {
     public static int[][] merge(int[][] intervals) {
         sort(intervals, comparingInt(a -> a[0]));
         List<int[]> merged = new ArrayList<>();
