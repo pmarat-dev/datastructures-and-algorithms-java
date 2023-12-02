@@ -1,4 +1,4 @@
-package geekaforgeeks.heappriorityqueue.klargestelement;
+package neetcode.heappriorityqueue.klargestelement;
 
 import java.util.PriorityQueue;
 
